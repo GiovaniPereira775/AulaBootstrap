@@ -49,7 +49,7 @@
             <a class="nav-link" href="./colaboradores.php">Colaboradores</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./novo.php">Novo item</a>
+            <a class="nav-link" href="./cep.php">CEP</a>
           </li>
         </ul>
         
