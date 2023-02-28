@@ -1,9 +1,9 @@
 <?php 
-    $titulo = "Cadastro de Produtos";
+    $titulo = "Colaboradores";
     include "./layout/cabecalho.php";
     ?>
 
-<h1> Cadastro de Produtos </h1>
+<h1>Colaboradores</h1>
 
 <?php 
     include "./layout/rodape.php";
